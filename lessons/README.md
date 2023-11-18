@@ -25,3 +25,5 @@ Try running the following commands:
 - another comment
 
 - one more comment just to confirm git
+
+- one more testing commit message
